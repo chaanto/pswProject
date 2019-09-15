@@ -1,0 +1,32 @@
+* {
+    font-family: 'Overpass', sans-serif;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.lastest-size-image-article {
+    width: 100%;
+    height: 100%;
+
+}
+
+.size-image-article {
+    width: 100%;
+    height: 100%;
+
+}
+
+.space-tb {
+    padding-top: 4.95238095em;
+    padding-bottom: 4.95238095em;
+}
+
+.space-top {
+    padding-top: 4.95238095em;
+}
+
+ul.nav a:hover{
+    color: #666362;
+}
