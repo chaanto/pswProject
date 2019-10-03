@@ -21,6 +21,7 @@
 .space-tb {
     padding-top: 4.95238095em;
     padding-bottom: 4.95238095em;
+    /* style="display: flex; justify-content: center; flex-direction: row;" */
 }
 
 .space-top {
